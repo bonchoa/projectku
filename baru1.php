@@ -1,1 +1,3 @@
-baru1 php
+<%php
+      echo "test";
+%>
